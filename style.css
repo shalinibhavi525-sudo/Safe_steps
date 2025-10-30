@@ -1,0 +1,26 @@
+body {
+ font-family: "Poppins", sans-serif;
+ background: #eef3ff;
+ text-align: center;
+ padding: 40px;
+ color: #333;
+}
+input, button {
+ margin: 8px;
+ padding: 10px;
+ border-radius: 8px;
+ border: 1px solid #ccc;
+}
+button {
+ background-color: #0077ff;
+ color: white;
+ border: none;
+ cursor: pointer;
+}
+#map {
+ width: 90%;
+ height: 300px;
+ margin: 20px auto;
+ border-radius: 12px;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
